@@ -1,9 +1,9 @@
 dependencies:
 - name: cloudflared
   repository: https://jonasclaes.github.io/helm-cloudflared
-  version: 0.1.3
+  version: 0.1.4
 - name: discord-bot
   repository: https://botivater.github.io/charts
-  version: 0.1.2
-digest: sha256:959058f3d9adadbc9be705bfb30988a635ada4ac4a9a8afc6885e1fd4bc0c343
-generated: "2022-05-30T23:36:15.224142803+02:00"
+  version: 0.1.3
+digest: sha256:6632e6c48e2e3fdab6782b1676f81833a2c50e3b2b46a300b3d5e66913695e78
+generated: "2022-05-30T23:46:09.08599148+02:00"
