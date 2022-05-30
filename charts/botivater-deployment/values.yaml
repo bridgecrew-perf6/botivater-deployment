@@ -4,3 +4,18 @@
 
 cloudflared:
   token:
+
+discord-bot:
+  settings:
+    general:
+      logLevel: debug
+      apiToken:
+    database:
+      url:
+    discord:
+      applicationId:
+      botToken:
+    auth0:
+      domain:
+      clientId:
+      audience:
